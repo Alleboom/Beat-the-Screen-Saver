@@ -1,0 +1,9 @@
+c:\users\zacha46\documents\visual studio 2012\Projects\Beat the Screen Saver 2\Beat the Screen Saver 2\bin\Debug\Beat the Screen Saver 2.exe.config
+c:\users\zacha46\documents\visual studio 2012\Projects\Beat the Screen Saver 2\Beat the Screen Saver 2\obj\Debug\Beat the Screen Saver 2.csprojResolveAssemblyReference.cache
+c:\users\zacha46\documents\visual studio 2012\Projects\Beat the Screen Saver 2\Beat the Screen Saver 2\obj\Debug\Beat_the_Screen_Saver_2.Form1.resources
+c:\users\zacha46\documents\visual studio 2012\Projects\Beat the Screen Saver 2\Beat the Screen Saver 2\obj\Debug\Beat_the_Screen_Saver_2.Properties.Resources.resources
+c:\users\zacha46\documents\visual studio 2012\Projects\Beat the Screen Saver 2\Beat the Screen Saver 2\obj\Debug\Beat the Screen Saver 2.csproj.GenerateResource.Cache
+c:\users\zacha46\documents\visual studio 2012\Projects\Beat the Screen Saver 2\Beat the Screen Saver 2\bin\Debug\Beat the Screen Saver 2.exe
+c:\users\zacha46\documents\visual studio 2012\Projects\Beat the Screen Saver 2\Beat the Screen Saver 2\bin\Debug\Beat the Screen Saver 2.pdb
+c:\users\zacha46\documents\visual studio 2012\Projects\Beat the Screen Saver 2\Beat the Screen Saver 2\obj\Debug\Beat the Screen Saver 2.exe
+c:\users\zacha46\documents\visual studio 2012\Projects\Beat the Screen Saver 2\Beat the Screen Saver 2\obj\Debug\Beat the Screen Saver 2.pdb
